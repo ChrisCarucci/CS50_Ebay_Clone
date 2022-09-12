@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/10932134/189576974-c8dbdf79-d296-4ea3-
 
 
 
-## A Simple Ebay Website where the user can 
+## A Simple Ebay Website where the user can: 
 
 - Signup 
 - Login 
