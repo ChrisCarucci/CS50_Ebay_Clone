@@ -1,5 +1,5 @@
 # CS50_Ebay_Clone
-<h1> Ebay Clone for COmputer Science 50</h1>
+<h1> Ebay Clone for Computer Science 50</h1>
 
 
 
