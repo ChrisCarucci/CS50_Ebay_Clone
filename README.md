@@ -1,5 +1,5 @@
 # CS50_Ebay_Clone
-<h1> Ebay Clone for Computer Science 50</h1>
+# Ebay Clone for Computer Science 50
 
 
 
@@ -7,7 +7,8 @@ https://user-images.githubusercontent.com/10932134/189576974-c8dbdf79-d296-4ea3-
 
 
 
-<h2> A Simple Ebay Website where the user can </h2>
+## A Simple Ebay Website where the user can </h2>
+- f
 - Signup 
 - Login 
 - Create/Edit Listings
