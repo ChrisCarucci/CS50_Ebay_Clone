@@ -15,5 +15,6 @@ https://user-images.githubusercontent.com/10932134/189576974-c8dbdf79-d296-4ea3-
 - Comment on Listings
 - End/Win Auctions
 - Add/Remove items to Watchlist
+- Bid on items in Active Listings
 
 
