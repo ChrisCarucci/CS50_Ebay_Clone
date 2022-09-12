@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/10932134/189576974-c8dbdf79-d296-4ea3-
  <p align="center">
 
 <h2> A Simple Ebay Website where the user can </h2>
-- Signup 
+* Signup 
 - Login 
 - Create/Edit Listings
 - Comment on Listings
