@@ -17,4 +17,9 @@ https://user-images.githubusercontent.com/10932134/189576974-c8dbdf79-d296-4ea3-
 - Add/Remove items to Watchlist
 - Bid on items in Active Listings
 
-
+## Languages/addons used:
+- Python
+- Html5
+- CSS3
+- Bootstrap
+- SqlLite
