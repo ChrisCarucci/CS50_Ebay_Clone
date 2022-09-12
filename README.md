@@ -7,8 +7,8 @@ https://user-images.githubusercontent.com/10932134/189576974-c8dbdf79-d296-4ea3-
 
 
 
-## A Simple Ebay Website where the user can </h2>
-- f
+## A Simple Ebay Website where the user can 
+
 - Signup 
 - Login 
 - Create/Edit Listings
